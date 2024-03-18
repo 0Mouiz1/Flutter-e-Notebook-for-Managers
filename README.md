@@ -6,7 +6,7 @@
 👉List Of Individuals <br> 
 👉Recipe Detail Screen (Name, Institutional Details, Personal Details, Institute ID number, Profile Image etc)<br> 
 👉Search Bar<br> 
-👉Warning list<br> 
+👉Marked Individuals List<br> 
 👉Dark Mode<br> 
 👉Splash Screen<br> 
 👉Beautiful UI Design<br> 
