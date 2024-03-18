@@ -1,6 +1,6 @@
-# 📲 Flutter e-Notebook_local_database_for_Hostel_Managers <br> 
+# Flutter e-Notebook_local_database_for_Hostel_Managers <br> 
 
-➡️Complete e_ NoteBook with Local Database Using SQLite Flutter
+➡️Complete e_ NoteBook with Local Database Using SQLite Flutter 📲 
 
 👉App Works in Offline Mode <br> 
 👉List Of Individuals <br> 
