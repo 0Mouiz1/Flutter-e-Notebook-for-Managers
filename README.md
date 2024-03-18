@@ -2,16 +2,16 @@
 
 ➡️Complete e_ NoteBook with Local Database Using SQLite Flutter
 
-👉App Works in Offline Mode
-👉List Of Individuals
-👉Recipe Detail Screen (Name, Institutional Details, Personal Details, Institute ID number, Profile Image etc)
-👉Search Bar
-👉Warning list
-👉Dark Mode
-👉Splash Screen
-👉Beautiful UI Design
-👉Images Loaded from Locally [Camera or Gallery]
-👉Support Both Android And IOS
+👉App Works in Offline Mode <br> 
+👉List Of Individuals <br> 
+👉Recipe Detail Screen (Name, Institutional Details, Personal Details, Institute ID number, Profile Image etc)<br> 
+👉Search Bar<br> 
+👉Warning list<br> 
+👉Dark Mode<br> 
+👉Splash Screen<br> 
+👉Beautiful UI Design<br> 
+👉Images Loaded from Locally [Camera or Gallery]<br> 
+👉Support Both Android And IOS <br> 
 
 
 
